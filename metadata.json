@@ -1,0 +1,8 @@
+{
+  "name": "Kuppe Labs AI LMS",
+  "description": "An African-focused AI education platform empowering the next generation of tech leaders in Uganda.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
